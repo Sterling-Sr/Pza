@@ -1,2 +1,1 @@
-# Pza
-thinkful pizza project
+# pizza
